@@ -1,4 +1,5 @@
 World Layoffs EDA (SQL)
+
 Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) on a global layoffs dataset using SQL. The primary objective is to clean, process, and analyze layoffs data to extract meaningful business insights, identify trends, and summarize the patterns across companies, industries, countries, and funding stages.
