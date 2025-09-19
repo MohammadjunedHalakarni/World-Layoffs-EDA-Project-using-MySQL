@@ -4,6 +4,7 @@ Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) on a global layoffs dataset using SQL. The primary objective is to clean, process, and analyze layoffs data to extract meaningful business insights, identify trends, and summarize the patterns across companies, industries, countries, and funding stages.
 
+
 Dataset
 
 The dataset contains information about global company layoffs including:
@@ -26,6 +27,7 @@ country: Country of the company
 
 funds_raised_millions: Total funds raised in millions
 
+
 Data Cleaning
 
 The EDA project includes:
@@ -37,6 +39,7 @@ Standardizing data – Trimming spaces, fixing inconsistent industry and country
 Handling NULL or blank values – Filling missing data or removing irrelevant records.
 
 Fixing data types – Converting dates, numbers, and percentages to proper SQL types.
+
 
 Analysis Performed
 
@@ -50,6 +53,7 @@ Time-based trends – Monthly layoffs, rolling totals, and yearly layoffs to det
 
 Top companies per year – Ranking top 5 companies with highest layoffs for each year.
 
+
 SQL Techniques Used
 
 SELECT, GROUP BY, ORDER BY for aggregation and sorting.
@@ -62,6 +66,7 @@ UPDATE and ALTER TABLE for data cleaning.
 
 String functions: TRIM(), SUBSTRING(), STR_TO_DATE() for standardizing text and dates.
 
+
 Insights
 
 Identified companies with maximum layoffs and percentage affected.
@@ -71,6 +76,7 @@ Observed trends of layoffs over months and years.
 Determined industries and countries most impacted by layoffs.
 
 Highlighted top companies per year based on layoffs.
+
 
 Purpose
 
